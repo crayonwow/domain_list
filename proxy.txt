@@ -11,3 +11,4 @@ cheat.sh
 fallingfruit.org
 grimoire.pro
 prompts.chat
+koreader.com
