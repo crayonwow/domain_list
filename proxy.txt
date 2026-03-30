@@ -18,3 +18,4 @@ lazyrecords.app
 ishkur.com
 ganeshrvel.com
 calibre2opds.com
+oreilly.com
