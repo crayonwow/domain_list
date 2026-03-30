@@ -13,3 +13,4 @@ grimoire.pro
 prompts.chat
 koreader.com
 hibob.com
+gam.onl
