@@ -14,3 +14,5 @@ prompts.chat
 koreader.com
 hibob.com
 gam.onl
+lazyrecords.app
+ishkur.com
