@@ -39,3 +39,4 @@ ss-inf.net
 google.com
 opsgenie.com
 handshake.org
+avs.io
