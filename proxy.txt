@@ -38,3 +38,4 @@ jira.com
 ss-inf.net
 google.com
 opsgenie.com
+handshake.org
