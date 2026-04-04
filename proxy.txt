@@ -36,7 +36,6 @@ atlassian.net
 bitbucket.org
 jira.com
 ss-inf.net
-google.com
 opsgenie.com
 handshake.org
 avs.io
