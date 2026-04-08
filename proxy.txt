@@ -39,3 +39,4 @@ ss-inf.net
 opsgenie.com
 handshake.org
 avs.io
+api.githubcopilot.com
