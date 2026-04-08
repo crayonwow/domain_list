@@ -38,5 +38,4 @@ jira.com
 ss-inf.net
 opsgenie.com
 handshake.org
-avs.io
 githubcopilot.com
