@@ -38,4 +38,8 @@ jira.com
 ss-inf.net
 opsgenie.com
 handshake.org
+azurefd.net
+default.exp-tas.com
+github.com
 githubcopilot.com
+githubusercontent.com
