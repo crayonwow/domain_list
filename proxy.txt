@@ -43,3 +43,4 @@ default.exp-tas.com
 github.com
 githubcopilot.com
 githubusercontent.com
+gitbutler.com
