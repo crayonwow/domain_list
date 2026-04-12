@@ -44,3 +44,4 @@ github.com
 githubcopilot.com
 githubusercontent.com
 gitbutler.com
+monkeytype.com
