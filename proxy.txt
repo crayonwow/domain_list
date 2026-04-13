@@ -46,3 +46,4 @@ githubusercontent.com
 gitbutler.com
 monkeytype.com
 pedalroom.com
+adaway.org
