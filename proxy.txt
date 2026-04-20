@@ -49,3 +49,8 @@ pedalroom.com
 adaway.org
 firebog.net
 losslessclub.com
+kodi.wiki
+musicbrainz.org
+listenbrainz.org
+last.fm
+deezer.com
