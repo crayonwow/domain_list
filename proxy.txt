@@ -54,3 +54,4 @@ musicbrainz.org
 listenbrainz.org
 last.fm
 deezer.com
+lrclib.net
