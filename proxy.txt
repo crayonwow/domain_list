@@ -55,3 +55,4 @@ listenbrainz.org
 last.fm
 deezer.com
 lrclib.net
+taskfile.dev
