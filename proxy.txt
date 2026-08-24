@@ -57,3 +57,4 @@ deezer.com
 lrclib.net
 taskfile.dev
 linuxvox.com
+asahilinux.org
