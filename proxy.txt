@@ -66,3 +66,4 @@ cultureamp.com
 lubuntu.me
 cultureamp.com
 fyralabs.com
+noctalia.dev
