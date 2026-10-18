@@ -69,3 +69,4 @@ fyralabs.com
 noctalia.dev
 omp.sh
 bitwarden.com
+prismlauncher.org
