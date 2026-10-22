@@ -71,3 +71,5 @@ omp.sh
 bitwarden.com
 prismlauncher.org
 porkbun.com
+pumpportal.fun
+geckoterminal.com
