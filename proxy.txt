@@ -74,3 +74,5 @@ porkbun.com
 pumpportal.fun
 geckoterminal.com
 ondigitalocean.app
+pump.fun
+mexc.com
