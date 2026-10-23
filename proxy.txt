@@ -77,3 +77,4 @@ ondigitalocean.app
 pump.fun
 mexc.com
 rust-lang.org
+svelte.dev
