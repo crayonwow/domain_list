@@ -1,4 +1,4 @@
-navidrome.org
+Gnavidrome.org
 spicetify.app
 pi-hole.net
 suckless.org
@@ -76,3 +76,4 @@ geckoterminal.com
 ondigitalocean.app
 pump.fun
 mexc.com
+rust-lang.org
