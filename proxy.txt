@@ -79,3 +79,4 @@ mexc.com
 rust-lang.org
 svelte.dev
 flathub.org
+miro.com
