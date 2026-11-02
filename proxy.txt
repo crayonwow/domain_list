@@ -39,7 +39,7 @@ ss-inf.net
 opsgenie.com
 handshake.org
 azurefd.net
-default.exp-tas.com
+exp-tas.com
 github.com
 githubcopilot.com
 githubusercontent.com
@@ -82,4 +82,4 @@ miro.com
 v2rayn.org
 ommogle.com
 mog-battles.com
-wow.aethus.pl
+aethus.pl
