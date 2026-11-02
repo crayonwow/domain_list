@@ -1,4 +1,4 @@
-Gnavidrome.org
+navidrome.org
 spicetify.app
 pi-hole.net
 suckless.org
@@ -64,7 +64,6 @@ jwt.io
 utfs.io
 cultureamp.com
 lubuntu.me
-cultureamp.com
 fyralabs.com
 noctalia.dev
 omp.sh
